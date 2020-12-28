@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+1. Books
+  - Harry Potter
+  - Lord of the Rings
+  
+2. Movies
+  * Game of Thrones
