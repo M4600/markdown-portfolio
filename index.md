@@ -2,5 +2,5 @@
 layout: default
 ---
 
-{% include 01-M4600.md %}
+{% include 01-name.md %}
 
